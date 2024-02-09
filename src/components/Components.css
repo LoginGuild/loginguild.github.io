@@ -1,0 +1,22 @@
+.topMenu {
+    display: inline;
+    text-align: center;
+    background-color: #282c34;
+    color: white;
+}
+
+.padding {
+    margin: 0.5%;
+    display: inline;
+}
+
+.loginIcon {
+    /* text-align: center; */
+    display: inline;
+    font-size: 2em;
+}
+
+.menuItem {
+    margin: 1em;
+    display: inline;
+}
